@@ -22,11 +22,11 @@
 68.232.35.38 cdn2.editmysite.com
 68.232.44.96 a-v2.sndcdn.com
 93.184.216.127 s.w.org
-68.232.35.96 cdn.www.xda-developers.com
-68.232.35.96 cdn1.xda-developers.com
-68.232.35.96 cdn2.xda-developers.com
-68.232.35.96 cdn3.xda-developers.com
-68.232.35.96 cdn4.xda-developers.com
+68.232.35.99 cdn.www.xda-developers.com
+68.232.35.99 cdn1.xda-developers.com
+68.232.35.99 cdn2.xda-developers.com
+68.232.35.99 cdn3.xda-developers.com
+68.232.35.99 cdn4.xda-developers.com
 72.21.91.8 gp1.wac.edgecastcdn.net
 93.184.216.73 ppcdn.500px.org
 93.184.216.73 assetcdn.500px.org
@@ -380,9 +380,16 @@
 #Gstatic↑
 203.208.46.177 play.google.com
 203.208.46.177 mail.google.com
+
+
 #+BEGIN
-#+UPDATE_TIME 2014-10-28 18:44:00
+#+UPDATE_TIME 2015-1-20 
 #+MESSAGE
+
+# # @swshan 更新信息
+# #
+# #
+
 #######################################################################
 #
 #  imouto.host
@@ -1536,37 +1543,43 @@
 #Startpage END
 
 #Google Services START
-#GoogleAccounts↓
-64.233.169.84 accounts.google.com
-64.233.169.84 accounts.l.google.com
-#GoogleAccounts↑
-#www.google.com↓
-66.199.151.162 www.google.com
+
+#www.google.com↓ (kr)
+59.18.44.101 www.google.com
 #www.google.com↑
+
+#GoogleAccounts↓
+64.233.169.91 accounts.google.com
+64.233.169.91 accounts.l.google.com
+#GoogleAccounts↑
+
+
+
 #Googleapis↓
-66.199.151.162 mt0.googleapis.com
-66.199.151.162 mt1.googleapis.com
-66.199.151.162 mt2.googleapis.com
-66.199.151.162 mt3.googleapis.com
-66.199.151.162 mts0.googleapis.com
-66.199.151.162 mts1.googleapis.com
-66.199.151.162 mts2.googleapis.com
-66.199.151.162 mts3.googleapis.com
-66.199.151.162 googleapis.com
-66.199.151.162 www.googleapis.com
-66.199.151.162 android.googleapis.com
-66.199.151.162 play.googleapis.com
-66.199.151.162 plus.googleapis.com
-66.199.151.162 ajax.googleapis.com
-66.199.151.162 chart.googleapis.com
-66.199.151.162 fonts.googleapis.com
-66.199.151.162 redirector-bigcache.googleapis.com
-66.199.151.162 translate.googleapis.com
-66.199.151.162 maps.googleapis.com
-66.199.151.162 content.googleapis.com
-66.199.151.162 googleapis.l.google.com
-66.199.151.162 doc-0a9v4-0agdq-s-googleusercontent.commondatastorage.googleapis.com
+203.208.46.171 mt0.googleapis.com
+203.208.46.171 mt1.googleapis.com
+203.208.46.171 mt2.googleapis.com
+203.208.46.171 mt3.googleapis.com
+203.208.46.171 mts0.googleapis.com
+203.208.46.171 mts1.googleapis.com
+203.208.46.171 mts2.googleapis.com
+203.208.46.171 mts3.googleapis.com
+203.208.46.171 googleapis.com
+203.208.46.171 www.googleapis.com
+203.208.46.171 android.googleapis.com
+203.208.46.171 play.googleapis.com
+203.208.46.171 plus.googleapis.com
+203.208.46.171 ajax.googleapis.com
+203.208.46.171 chart.googleapis.com
+203.208.46.171 fonts.googleapis.com
+203.208.46.171 redirector-bigcache.googleapis.com
+203.208.46.171 translate.googleapis.com
+203.208.46.171 maps.googleapis.com
+203.208.46.171 content.googleapis.com
+203.208.46.171 googleapis.l.google.com
+203.208.46.171 doc-0a9v4-0agdq-s-googleusercontent.commondatastorage.googleapis.com
 #Googleapis↑
+
 #Android↓
 #66.199.151.162 android-china.l.google.com
 #66.199.151.162 www-china.l.google.com
@@ -2940,7 +2953,7 @@
 198.35.26.96 wiktionary.org
 #Wikipedia END
 
-#Dropbox START
+#Dropbox START (failed)
 108.160.165.147 dropbox.com
 108.160.165.147 www.dropbox.com
 108.160.166.144 api.dropbox.com
