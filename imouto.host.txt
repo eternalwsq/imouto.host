@@ -191,6 +191,7 @@
 69.171.233.18 friendfeed.com
 69.171.233.18 www.friendfeed.com
 #其他
+
 #flickr
 106.10.137.23 static.flickr.com
 27.123.51.89 c1.staticflickr.com
@@ -278,19 +279,9 @@
 106.186.27.62 tenco.cc
 106.186.27.62 wheel-soft.com
 #Crystal ACG
-#greatfire
-107.20.178.162 greatfire.org
-107.20.178.162 www.greatfire.org
-107.20.178.162 en.greatfire.org
-107.20.178.162 zh.greatfire.org
-107.20.178.162 lanternforum.greatfire.org
-54.235.116.105 freeweibo.com
-54.235.116.105 www.freeweibo.com
-54.230.34.19 getlantern.org
-54.230.34.19 www.getlantern.org
-54.192.225.207 pao-pao.net
-54.192.225.207 www.pao-pao.net
-#greatfire
+
+
+
 203.208.46.177 code.google.com
 203.208.46.177 chart.apis.google.com
 #GoogleAccounts↓
@@ -387,8 +378,8 @@
 #+MESSAGE
 
 # # @swshan 更新信息
-# #
-# #
+# # (bak)
+# # # 66.199.151
 
 #######################################################################
 #
@@ -1920,66 +1911,66 @@
 66.199.151.162 images-lso-opensocial.googleusercontent.com
 66.199.151.162 images-blogger-opensocial.googleusercontent.com
 66.199.151.162 images-pos-opensocial.googleusercontent.com
-66.199.151.162 lh0.googleusercontent.com
-66.199.151.162 lh1.googleusercontent.com
-66.199.151.162 lh2.googleusercontent.com
-66.199.151.162 lh3.googleusercontent.com
-66.199.151.162 lh4.googleusercontent.com
-66.199.151.162 lh5.googleusercontent.com
-66.199.151.162 lh6.googleusercontent.com
-66.199.151.162 gp1.googleusercontent.com
-66.199.151.162 gp2.googleusercontent.com
+203.208.46.179 lh0.googleusercontent.com
+203.208.46.179 lh1.googleusercontent.com
+203.208.46.179 lh2.googleusercontent.com
+203.208.46.179 lh3.googleusercontent.com
+203.208.46.179 lh4.googleusercontent.com
+203.208.46.179 lh5.googleusercontent.com
+203.208.46.179 lh6.googleusercontent.com
+203.208.46.179 gp1.googleusercontent.com
+203.208.46.179 gp2.googleusercontent.com
 66.199.151.162 gp3.googleusercontent.com
 66.199.151.162 gp4.googleusercontent.com
 66.199.151.162 gp5.googleusercontent.com
 66.199.151.162 gp6.googleusercontent.com
-66.199.151.162 lh0.ggpht.com
-66.199.151.162 lh1.ggpht.com
-66.199.151.162 lh2.ggpht.com
-66.199.151.162 lh3.ggpht.com
-66.199.151.162 lh4.ggpht.com
-66.199.151.162 lh5.ggpht.com
-66.199.151.162 lh6.ggpht.com
-66.199.151.162 nt0.ggpht.com
-66.199.151.162 nt1.ggpht.com
-66.199.151.162 nt2.ggpht.com
-66.199.151.162 nt3.ggpht.com
-66.199.151.162 nt4.ggpht.com
-66.199.151.162 nt5.ggpht.com
-66.199.151.162 nt6.ggpht.com
-66.199.151.162 yt0.ggpht.com
-66.199.151.162 yt1.ggpht.com
-66.199.151.162 yt2.ggpht.com
-66.199.151.162 yt3.ggpht.com
-66.199.151.162 yt4.ggpht.com
-66.199.151.162 yt5.ggpht.com
-66.199.151.162 yt6.ggpht.com
-66.199.151.162 gm0.ggpht.com
-66.199.151.162 gm1.ggpht.com
-66.199.151.162 gm2.ggpht.com
-66.199.151.162 gm3.ggpht.com
-66.199.151.162 gm4.ggpht.com
-66.199.151.162 gm5.ggpht.com
-66.199.151.162 gm6.ggpht.com
-66.199.151.162 geo0.ggpht.com
-66.199.151.162 geo1.ggpht.com
-66.199.151.162 geo2.ggpht.com
-66.199.151.162 geo3.ggpht.com
-66.199.151.162 geo4.ggpht.com
-66.199.151.162 geo5.ggpht.com
-66.199.151.162 geo6.ggpht.com
-66.199.151.162 ci1.googleusercontent.com
-66.199.151.162 ci2.googleusercontent.com
-66.199.151.162 ci3.googleusercontent.com
-66.199.151.162 ci4.googleusercontent.com
-66.199.151.162 ci5.googleusercontent.com
-66.199.151.162 ci6.googleusercontent.com
-66.199.151.162 s1.googleusercontent.com
-66.199.151.162 s2.googleusercontent.com
-66.199.151.162 s3.googleusercontent.com
-66.199.151.162 s4.googleusercontent.com
-66.199.151.162 s5.googleusercontent.com
-66.199.151.162 s6.googleusercontent.com
+203.208.46.179 lh0.ggpht.com
+203.208.46.179 lh1.ggpht.com
+203.208.46.179 lh2.ggpht.com
+203.208.46.179 lh3.ggpht.com
+203.208.46.179 lh4.ggpht.com
+203.208.46.179 lh5.ggpht.com
+203.208.46.179 lh6.ggpht.com
+203.208.46.179 nt0.ggpht.com
+203.208.46.179 nt1.ggpht.com
+203.208.46.179 nt2.ggpht.com
+203.208.46.179 nt3.ggpht.com
+203.208.46.179 nt4.ggpht.com
+203.208.46.179 nt5.ggpht.com
+203.208.46.179 nt6.ggpht.com
+203.208.46.179 yt0.ggpht.com
+203.208.46.179 yt1.ggpht.com
+203.208.46.179 yt2.ggpht.com
+203.208.46.179 yt3.ggpht.com
+203.208.46.179 yt4.ggpht.com
+203.208.46.179 yt5.ggpht.com
+203.208.46.179 yt6.ggpht.com
+203.208.46.179 gm0.ggpht.com
+203.208.46.179 gm1.ggpht.com
+203.208.46.179 gm2.ggpht.com
+203.208.46.179 gm3.ggpht.com
+203.208.46.179 gm4.ggpht.com
+203.208.46.179 gm5.ggpht.com
+203.208.46.179 gm6.ggpht.com
+203.208.46.179 geo0.ggpht.com
+203.208.46.179 geo1.ggpht.com
+203.208.46.179 geo2.ggpht.com
+203.208.46.179 geo3.ggpht.com
+203.208.46.179 geo4.ggpht.com
+203.208.46.179 geo5.ggpht.com
+203.208.46.179 geo6.ggpht.com
+203.208.46.179 ci1.googleusercontent.com
+203.208.46.179 ci2.googleusercontent.com
+203.208.46.179 ci3.googleusercontent.com
+203.208.46.179 ci4.googleusercontent.com
+203.208.46.179 ci5.googleusercontent.com
+203.208.46.179 ci6.googleusercontent.com
+203.208.46.179 s1.googleusercontent.com
+203.208.46.179 s2.googleusercontent.com
+203.208.46.179 s3.googleusercontent.com
+203.208.46.179 s4.googleusercontent.com
+203.208.46.179 s5.googleusercontent.com
+203.208.46.179 s6.googleusercontent.com
 64.233.169.133 sp0.googleusercontent.com
 64.233.169.133 sp1.googleusercontent.com
 64.233.169.133 sp2.googleusercontent.com
@@ -1991,13 +1982,14 @@
 64.233.169.133 sp8.googleusercontent.com
 64.233.169.133 sp9.googleusercontent.com
 #Googleusercontent↑
+
 #Gstatic↓
-66.199.151.162 www.gstatic.com
-66.199.151.162 ssl.gstatic.com
-66.199.151.162 csi.gstatic.com
-66.199.151.162 csi.l.google.com
-66.199.151.162 maps.gstatic.com
-66.199.151.162 fonts.gstatic.com
+203.208.46.179 www.gstatic.com
+203.208.46.179 ssl.gstatic.com
+203.208.46.179 csi.gstatic.com
+203.208.46.179 csi.l.google.com
+203.208.46.179 maps.gstatic.com
+203.208.46.179 fonts.gstatic.com
 66.199.151.162 encrypted-tbn0.gstatic.com
 66.199.151.162 encrypted-tbn1.gstatic.com
 66.199.151.162 encrypted-tbn2.gstatic.com
@@ -2324,7 +2316,12 @@
 66.199.151.162 toolbarqueries.google.com.hk
 66.199.151.162 translate.google.com.hk
 66.199.151.162 wENDa.google.com.hk
-66.199.151.162 www.google.com.hk
+
+###vimjmp
+# 66.199.151 (ca)
+
+216.58.208.21 www.google.com.hk
+
 66.199.151.162 accounts.google.com.tw
 66.199.151.162 blogsearch.google.com.tw
 66.199.151.162 books.google.com.tw
@@ -2393,10 +2390,10 @@
 66.199.151.162 earthengine.googlelabs.com
 66.199.151.162 g.co
 66.199.151.162 gmail.com
-66.199.151.162 goo.gl
+66.199.151.141 goo.gl
 66.199.151.162 listen.googlelabs.com
-66.199.151.162 m.gmail.com
-66.199.151.162 m.googlemail.com
+66.199.151.141 m.gmail.com
+66.199.151.141 m.googlemail.com
 66.199.151.162 ngrams.googlelabs.com
 66.199.151.162 ssl.google-analytics.com
 66.199.151.162 www.gmail.com
@@ -2410,9 +2407,9 @@
 66.199.151.162 www.panoramio.com
 66.199.151.162 static.panoramio.com
 66.199.151.162 www.webmproject.org
-66.199.151.162 golang.org
-66.199.151.162 play.golang.org
-66.199.151.162 feeds.feedburner.com
+66.199.151.141 golang.org
+66.199.151.141 play.golang.org
+66.199.151.142 feeds.feedburner.com
 #Google other↑
 #Google Play↓
 #203.208.46.89 r1---sn-a5m7znee.c.android.clients.google.com
@@ -2954,8 +2951,8 @@
 #Wikipedia END
 
 #Dropbox START (failed)
-108.160.165.147 dropbox.com
-108.160.165.147 www.dropbox.com
+108.160.165.58 dropbox.com
+108.160.165.58 www.dropbox.com
 108.160.166.144 api.dropbox.com
 108.160.166.126 api-notify.dropbox.com
 54.243.226.170 api-content.dropbox.com
