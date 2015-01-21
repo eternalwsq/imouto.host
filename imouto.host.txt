@@ -1536,7 +1536,7 @@
 #Google Services START
 
 #www.google.com↓ (kr)
-59.18.44.101 www.google.com
+216.58.210.68 www.google.com
 #www.google.com↑
 
 #GoogleAccounts↓
