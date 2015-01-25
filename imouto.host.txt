@@ -1,3 +1,6 @@
+
+#Appletemp
+23.58.229.11 s.mzstatic.com
 #mozilla
 117.18.232.191 addons.cdn.mozilla.net
 117.18.232.191 mozorg.cdn.mozilla.net
