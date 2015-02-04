@@ -1,6 +1,6 @@
 
 #Appletemp
-23.58.229.11 s.mzstatic.com
+
 #mozilla
 117.18.232.191 addons.cdn.mozilla.net
 117.18.232.191 mozorg.cdn.mozilla.net
@@ -1539,7 +1539,7 @@
 #Google Services START
 
 #www.google.com↓ (kr)
-216.58.210.68 www.google.com
+216.58.210.113 www.google.com
 #www.google.com↑
 
 #GoogleAccounts↓
