@@ -1,7 +1,23 @@
 
 #fanfou
-#singleline
-58.83.129.19 fanfou.com m.fanfou.com apps.fanfou.com avatar.fanfou.com avatar1.fanfou.com avatar2.fanfou.com avatar3.fanfou.com avatar4.fanfou.com blog.fanfou.com static.fanfou.com photo.fanfou.com photo1.fanfou.com photo2.fanfou.com photo3.fanfou.com photo4.fanfou.com photo5.fanfou.com 
+
+58.83.129.19 fanfou.com
+58.83.129.19 www.fanfou.com
+58.83.129.19 m.fanfou.com
+58.83.129.19 apps.fanfou.com
+58.83.129.19 avatar.fanfou.com
+58.83.129.19 avatar1.fanfou.com
+58.83.129.19 avatar2.fanfou.com
+58.83.129.19 avatar3.fanfou.com
+58.83.129.19 avatar4.fanfou.com
+58.83.129.19 blog.fanfou.com
+58.83.129.19 static.fanfou.com
+58.83.129.19 photo.fanfou.com
+58.83.129.19 photo1.fanfou.com
+58.83.129.19 photo2.fanfou.com
+58.83.129.19 photo3.fanfou.com
+58.83.129.19 photo4.fanfou.com
+58.83.129.19 photo5.fanfou.com
 
 #mozilla
 117.18.232.191 addons.cdn.mozilla.net
