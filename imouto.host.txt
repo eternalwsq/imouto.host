@@ -1,5 +1,7 @@
 
-#Appletemp
+#fanfou
+#singleline
+58.83.129.19 fanfou.com m.fanfou.com apps.fanfou.com avatar.fanfou.com avatar1.fanfou.com avatar2.fanfou.com avatar3.fanfou.com avatar4.fanfou.com blog.fanfou.com static.fanfou.com photo.fanfou.com photo1.fanfou.com photo2.fanfou.com photo3.fanfou.com photo4.fanfou.com photo5.fanfou.com 
 
 #mozilla
 117.18.232.191 addons.cdn.mozilla.net
