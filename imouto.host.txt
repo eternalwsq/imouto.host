@@ -1559,10 +1559,10 @@
 #Country
 216.58.220.23		www.google.com.gr
 216.58.220.23		www.google.com.ru
-216.58.220.23		www.google.com
-216.58.220.23		www.google.com.hk
-216.58.220.23		www.google.com.tw
-216.58.220.23		www.google.com.sg
+#216.58.220.23		www.google.com
+#216.58.220.23		www.google.com.hk
+#216.58.220.23		www.google.com.tw
+#216.58.220.23		www.google.com.sg
 216.58.220.23		www.google.co.jp
 216.58.220.23		www.google.ad
 216.58.220.23		www.google.ae
