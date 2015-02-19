@@ -166,6 +166,9 @@
 66.199.151.162 doc-0g-3k-docs.googleusercontent.com
 66.199.151.162 gweb-letour.storage.googleapis.com
 66.199.151.162 cjxlist1.googlecode.com
+
+66.199.151.162  chinesenewyear.withgoogle.com
+
 66.199.151.162 foobar.withgoogle.com
 66.199.151.162 interstellar.withgoogle.com
 66.199.151.162 edudirectory.withgoogle.com
