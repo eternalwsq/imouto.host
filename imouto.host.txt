@@ -1,5 +1,23 @@
+#add
+# bilibili backup (# for no using)
+#183.60.207.149 www.bilibili.tv
+#219.77.190.191 static.hdslb.com
+#42.156.140.11 s11.cnzz.com
+#219.77.190.191 i0.hdslb.com
+#219.77.190.191 i1.hdslb.com 
+#50.116.24.181 i2.hdslb.com
+#50.116.24.181 secure.bilibili.tv
+#42.120.63.48 interface.bilibili.cn
+#106.187.47.228 interface.bilibili.tv
+#42.120.219.6 c.cnzz.com
+#42.156.140.26 hzs11.cnzz.com
+#14.136.152.183 comment.bilibili.tv
+#14.136.152.183 comment.bilibili.cn
+#103.6.86.153 bilibili.kankanews.com
+#106.187.47.228 api.bilibili.cn
+#42.120.63.207 stat.bilibili.cn
 
-#fanfou
+#fanfou 饭否
 
 58.83.129.19 fanfou.com
 58.83.129.19 www.fanfou.com
