@@ -1,12 +1,15 @@
-## @swshan 更新信息 2/20
+## @swshan
 ## (bak)
 ### 66.199.151
 
-#  # r17: 更换google www ip 
-#  # r16: 补充新浪移动客户端广告域名
+
+## r19: 添加 tanx 广告域名
+## r18: 添加恶意软件实验室的hosts 快速跳转可以搜索 MWSL
+## r17: 更换google www ip 
+## r16: 补充新浪移动客户端广告域名
 
 #+BEGIN
-#+UPDATE_TIME 2015-2-20 
+#+UPDATE_TIME 2015-2-23 
 #+MESSAGE
 
 #######################################################################
@@ -303,12 +306,15 @@
 
 
 #add
+
+23.201.231.49 cdn.optimizely.com
+
 # bilibili backup (# for no using)
 #183.60.207.149 www.bilibili.tv
 #219.77.190.191 static.hdslb.com
 #42.156.140.11 s11.cnzz.com
 #219.77.190.191 i0.hdslb.com
-#219.77.190.191 i1.hdslb.com 
+# 219.77.190.191 i1.hdslb.com 
 #50.116.24.181 i2.hdslb.com
 #50.116.24.181 secure.bilibili.tv
 #42.120.63.48 interface.bilibili.cn
@@ -724,6 +730,13 @@
 #localhost END
 
 #AdBlock START
+
+#tanx
+0.0.0.0  toruk.tanx.com
+0.0.0.0  ifs.tanx.com
+0.0.0.0  p.tanx.com
+0.0.0.0  cdn.tanx.com
+
 
 ##新浪网 sina
 #mobile
