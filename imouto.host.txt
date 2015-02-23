@@ -737,6 +737,8 @@
 0.0.0.0  p.tanx.com
 0.0.0.0  cdn.tanx.com
 
+0.0.0.0 js.users.51.la
+0.0.0.0 web2.51.la
 
 ##新浪网 sina
 #mobile
