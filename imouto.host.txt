@@ -4,6 +4,7 @@
 ### Availiable: 64.233.168 / 
 
 
+## r20: 更改ip
 ## r19: 添加 tanx 广告域名
 ## r18: 添加恶意软件实验室的hosts 快速跳转可以搜索 MWSL
 ## r17: 更换google www ip 
@@ -684,8 +685,8 @@
 203.208.46.177 geo5.ggpht.com
 203.208.46.177 geo6.ggpht.com
 #Gstatic↓
-203.208.46.177 www.gstatic.com
-203.208.46.177 ssl.gstatic.com
+203.208.46.177  www.gstatic.com
+173.194.219.112  ssl.gstatic.com
 203.208.46.177 csi.gstatic.com
 203.208.46.177 csi.l.google.com
 203.208.46.177 maps.gstatic.com
