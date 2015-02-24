@@ -1,7 +1,9 @@
 ## @swshan
 ## (bak)
 ### 66.199.151
-### Availiable: 64.233.168 / 
+### Availiable: 64.233.168 /
+###
+### message : Google 北京, https://plus.google.com/104603245338932141930/posts/BVNFGvCXCA2
 
 ## r21: google北京好像不再提供gstatic和googleusercontent的cdn了﻿
 ## r20: 更改ip
@@ -2347,7 +2349,7 @@
 
 #Google other↓
 #
-203.208.41.149 mail.google.com
+216.58.217.39 mail.google.com
 
 203.208.41.149 isolated.mail.google.com
 66.199.151.162 history.google.com
