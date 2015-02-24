@@ -375,11 +375,20 @@
 68.232.35.38 cdn2.editmysite.com
 68.232.44.96 a-v2.sndcdn.com
 93.184.216.127 s.w.org
-68.232.35.99 cdn.www.xda-developers.com
-68.232.35.99 cdn1.xda-developers.com
-68.232.35.99 cdn2.xda-developers.com
-68.232.35.99 cdn3.xda-developers.com
-68.232.35.99 cdn4.xda-developers.com
+#XDA
+174.129.2.23 cdn.xda-developers.com
+192.229.144.96 cdn1.xda-developers.com
+192.229.144.96 cdn2.xda-developers.com
+192.229.144.96 cdn3.xda-developers.com
+192.229.144.96 cdn4.xda-developers.com
+192.229.144.96 cdn-img.xda-developers.com
+192.229.144.96 cdn-www.xda-developers.com
+207.244.72.9 forum.xda-developers.com
+117.18.237.203 tags.bkrtx.com
+23.32.241.66 m.servebom.com
+207.244.73.44 www.xda-developers.com
+207.244.73.44 xda-developers.com
+
 72.21.91.8 gp1.wac.edgecastcdn.net
 93.184.216.73 ppcdn.500px.org
 93.184.216.73 assetcdn.500px.org
@@ -1545,6 +1554,29 @@
 54.230.150.180 cdn.flipboard.com
 54.225.133.17 beacon.flipboard.com
 #FlipBoard END
+
+
+#Instagram (wait for future)(Web only)
+
+#instagram.com 443
+#scontent-a.cdninstagram.com 443
+#scontent-b.cdninstagram.com 443
+#igcdn-photos-a-a.akamaihd.net
+#igcdn-photos-e-a.akamaihd.net
+#igcdn-photos-d-a.akamaihd.net
+#igcdn-photos-c-a.akamaihd.net
+#instagramimages-a.akamaihd.net
+#igcdn-photos-h-a.akamaihd.net
+#igcdn-photos-g-a.akamaihd.net
+#igcdn-photos-c-a.akamaihd.net
+#instagramimages-a.akamaihd.net
+#igcdn-photos-g-a.akamaihd.net
+#igcdn-photos-f-a.akamaihd.net
+#igcdn-photos-d-a.akamaihd.net
+#igcdn-photos-b-a.akamaihd.net
+#igcdn-photos-f-a.akamaihd.net
+#igcdn-photos-e-a.akamaihd.net
+#igcdn-photos-b-a.akamaihd.net
 
 
 #Flickr START
