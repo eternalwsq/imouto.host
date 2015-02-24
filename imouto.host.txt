@@ -2407,7 +2407,7 @@
 66.199.151.162 safebrowsing-cache.google.com
 
 66.199.151.162 www.android.com
-66.199.151.162 tools.android.com
+64.233.161.121 tools.android.com
 66.199.151.162 android.com
 66.199.151.162 developer.android.com
 66.199.151.162 market.android.com
