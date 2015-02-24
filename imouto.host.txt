@@ -642,13 +642,14 @@
 203.208.46.177 accounts.google.com
 203.208.46.177 accounts.l.google.com
 #GoogleAccounts↑
-203.208.46.177 lh0.googleusercontent.com
-203.208.46.177 lh1.googleusercontent.com
-203.208.46.177 lh2.googleusercontent.com
-203.208.46.177 lh3.googleusercontent.com
-203.208.46.177 lh4.googleusercontent.com
-203.208.46.177 lh5.googleusercontent.com
-203.208.46.177 lh6.googleusercontent.com
+
+64.233.176.132 lh0.googleusercontent.com
+64.233.176.133 lh1.googleusercontent.com
+64.233.176.132 lh2.googleusercontent.com
+64.233.176.133 lh3.googleusercontent.com
+64.233.176.132 lh4.googleusercontent.com
+64.233.176.133 lh5.googleusercontent.com
+64.233.176.132 lh6.googleusercontent.com
 203.208.46.177 lh0.ggpht.com
 203.208.46.177 lh1.ggpht.com
 203.208.46.177 lh2.ggpht.com
@@ -2402,7 +2403,9 @@
 66.199.151.162 safebrowsing.clients.google.com
 66.199.151.162 safebrowsing.google.com
 66.199.151.162 safebrowsing-cache.google.com
+
 66.199.151.162 www.android.com
+66.199.151.162 tools.android.com
 66.199.151.162 android.com
 66.199.151.162 developer.android.com
 66.199.151.162 market.android.com
