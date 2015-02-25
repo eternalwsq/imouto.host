@@ -5,7 +5,12 @@
 ###
 ### message : Google 北京, https://plus.google.com/104603245338932141930/posts/BVNFGvCXCA2
 ### message : 360 CDN http://t.cn/Rwx7GF5
+### message : http://blog.xupeng.me/2013/05/15/multiple-ips-with-hosts/
+### message : Google 北京，包括但不限于地图，翻译，gstatic.cn，趋势，透明度报告，dl.google.com，support，account，clients*.google.com等等
+### message : 避免使用新IP段 216.58.208.0/20 可以在 173.194.0.0/16 找 
 
+
+## r22: 添加多ip条目以便更改，添加message注释
 ## r21: google北京好像不再提供gstatic和googleusercontent的cdn了﻿
 ## r20: 更改ip
 ## r19: 添加 tanx 广告域名
