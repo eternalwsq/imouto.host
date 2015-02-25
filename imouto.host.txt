@@ -4,6 +4,7 @@
 ### Availiable: 64.233.168 /
 ###
 ### message : Google 北京, https://plus.google.com/104603245338932141930/posts/BVNFGvCXCA2
+### message : 360 CDN http://t.cn/Rwx7GF5
 
 ## r21: google北京好像不再提供gstatic和googleusercontent的cdn了﻿
 ## r20: 更改ip
@@ -646,9 +647,6 @@
 #Crystal ACG
 
 
-
-203.208.46.177 code.google.com
-203.208.46.177 chart.apis.google.com
 #GoogleAccounts↓
 203.208.46.177 accounts.google.com
 203.208.46.177 accounts.l.google.com
@@ -1900,6 +1898,8 @@
 64.233.169.91 accounts.l.google.com
 #GoogleAccounts↑
 
+#message: http://libs.bangbang93.com/
+122.226.100.113 fonts.googleapis.com ajax.googleapis.com
 
 
 #Googleapis↓
