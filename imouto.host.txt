@@ -317,6 +317,10 @@
 
 #add
 
+#v2ex(https)
+23.251.121.132  cdn.v2ex.com
+23.251.121.132  v2ex.com
+
 23.201.231.49 cdn.optimizely.com
 
 # bilibili backup (# for no using)
