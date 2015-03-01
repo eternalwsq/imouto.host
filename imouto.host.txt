@@ -9,7 +9,7 @@
 ### message : Google 北京，包括但不限于地图，翻译，gstatic.cn，趋势，透明度报告，dl.google.com，support，account，clients*.google.com等等
 ### message : 避免使用新IP段 216.58.208.0/20 可以在 173.194.0.0/16 找 
 
-## r24: 改动 124.206.29.168 dl-ssl.google.com (buct.edu.cn) 也许可以
+## r24: 备用改动 124.206.29.168 dl-ssl.google.com 
 ## r23: 改动广告域名
 ## r22: 添加多ip条目以便更改，添加message注释
 ## r21: google北京好像不再提供gstatic和googleusercontent的cdn了﻿
@@ -1816,10 +1816,10 @@
 66.199.151.162 desktop2.google.com
 66.199.151.162 developers.google.com
 66.199.151.162 ditu.google.com
-66.199.151.162 dl.google.com
-66.199.151.162 dl.l.google.com
+203.208.49.176 dl.google.com
+203.208.49.176 dl.l.google.com
 
-124.206.29.168 dl-ssl.google.com
+203.208.49.176 dl-ssl.google.com
 #66.199.151.162 dl-ssl.google.com
 66.199.151.162 domains.google.com
 66.199.151.162 earth.google.com
