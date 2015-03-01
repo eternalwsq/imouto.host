@@ -1,7 +1,7 @@
 ## @swshan
 ## (bak)
 ### 66.199.151
-### Availiable: 64.233.168 /
+### Availiable: 64.233.168 / 173.194.66.196
 ###
 ### message : Google 北京, https://plus.google.com/104603245338932141930/posts/BVNFGvCXCA2
 ### message : 360 CDN http://t.cn/Rwx7GF5
@@ -9,6 +9,7 @@
 ### message : Google 北京，包括但不限于地图，翻译，gstatic.cn，趋势，透明度报告，dl.google.com，support，account，clients*.google.com等等
 ### message : 避免使用新IP段 216.58.208.0/20 可以在 173.194.0.0/16 找 
 
+## r24: 改动 124.206.29.168 dl-ssl.google.com (buct.edu.cn) 也许可以
 ## r23: 改动广告域名
 ## r22: 添加多ip条目以便更改，添加message注释
 ## r21: google北京好像不再提供gstatic和googleusercontent的cdn了﻿
@@ -1227,27 +1228,27 @@
 
 
 #Googleapis↓
-203.208.46.171 mt0.googleapis.com
-203.208.46.171 mt1.googleapis.com
-203.208.46.171 mt2.googleapis.com
-203.208.46.171 mt3.googleapis.com
-203.208.46.171 mts0.googleapis.com
-203.208.46.171 mts1.googleapis.com
-203.208.46.171 mts2.googleapis.com
-203.208.46.171 mts3.googleapis.com
+74.125.224.9 mt0.googleapis.com
+74.125.224.9 mt1.googleapis.com
+74.125.224.9 mt2.googleapis.com
+74.125.224.9 mt3.googleapis.com
+74.125.224.9 mts0.googleapis.com
+74.125.224.9 mts1.googleapis.com
+74.125.224.9 mts2.googleapis.com
+74.125.224.9 mts3.googleapis.com
 74.125.21.87   googleapis.com
-203.208.46.171 www.googleapis.com
-203.208.46.171 android.googleapis.com
-203.208.46.171 play.googleapis.com
-203.208.46.171 plus.googleapis.com
-74.125.21.87   ajax.googleapis.com
-203.208.46.171 chart.googleapis.com
-203.208.46.171 fonts.googleapis.com
-203.208.46.171 redirector-bigcache.googleapis.com
-203.208.46.171 translate.googleapis.com
+74.125.224.9 www.googleapis.com
+74.125.224.9 android.googleapis.com
+74.125.224.9 play.googleapis.com
+74.125.224.9 plus.googleapis.com
+#74.125.21.87   ajax.googleapis.com
+74.125.224.9 chart.googleapis.com
+74.125.224.9 fonts.googleapis.com
+74.125.224.9 redirector-bigcache.googleapis.com
+74.125.224.9 translate.googleapis.com
 74.125.21.87   maps.googleapis.com
-203.208.46.171 content.googleapis.com
-203.208.46.171 googleapis.l.google.com
+74.125.224.17 content.googleapis.com
+74.125.224.9 googleapis.l.google.com
 203.208.46.171 doc-0a9v4-0agdq-s-googleusercontent.commondatastorage.googleapis.com
 #Googleapis↑
 
@@ -1758,10 +1759,10 @@
 66.199.151.162 play.google.com
 66.199.151.162 keep.google.com
 66.199.151.162 relay.google.com
-66.199.151.162 safebrowsing.cache.l.google.com
-66.199.151.162 safebrowsing.clients.google.com
-66.199.151.162 safebrowsing.google.com
-66.199.151.162 safebrowsing-cache.google.com
+74.125.224.8 safebrowsing.cache.l.google.com
+74.125.224.8 safebrowsing.clients.google.com
+74.125.224.8 safebrowsing.google.com
+74.125.224.8 safebrowsing-cache.google.com
 
 66.199.151.162 www.android.com
 64.233.161.121 tools.android.com
@@ -1817,7 +1818,9 @@
 66.199.151.162 ditu.google.com
 66.199.151.162 dl.google.com
 66.199.151.162 dl.l.google.com
-66.199.151.162 dl-ssl.google.com
+
+124.206.29.168 dl-ssl.google.com
+#66.199.151.162 dl-ssl.google.com
 66.199.151.162 domains.google.com
 66.199.151.162 earth.google.com
 66.199.151.162 encrypted.google.com
